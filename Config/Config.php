@@ -1,5 +1,5 @@
 <?php 
-	const BASE_URL = "http://localhost/tienda_virtual";
+	const BASE_URL = "http://localhost/loschapines";
 	// const BASE_URL = "https://loschapines.com/tiendavirtual";
 
 	//Zona horaria

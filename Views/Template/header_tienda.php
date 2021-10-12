@@ -38,7 +38,7 @@
 	<meta property="og:image"       content="<?= $urlImg; ?>" />
 
 <!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="<?= media() ?>/tienda/images/icon.svg"/>
+	<link rel="icon" type="image/png" href="<?= media() ?>/tienda/images/Bandera.svg"/>
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="<?= media() ?>/tienda/vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->

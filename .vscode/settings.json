@@ -7,11 +7,11 @@
       "previewLimit": 50,
       "server": "localhost",
       "port": 3306,
-      "askForPassword": true,
       "driver": "MySQL",
-      "name": "Mysql_Xampp",
+      "name": "xampp",
       "database": "db_tiendavirtual",
-      "username": "root"
+      "username": "root",
+      "password": "root"
     }
   ]
 }
