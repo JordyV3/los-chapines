@@ -165,5 +165,3 @@ class Clientes extends Controllers{
 
 
 }
-
-?>
