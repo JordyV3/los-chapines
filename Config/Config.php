@@ -34,7 +34,7 @@
 	//const SECRET = "";
 
 	//Datos envio de correo
-	const NOMBRE_REMITENTE = "Los Chapines";
+	const NOMBRE_REMITENTE = "Los Charros";
 	const EMAIL_REMITENTE = "loschapines.store@gmail.com";
 	const NOMBRE_EMPESA = "Los Chapines";
 	const WEB_EMPRESA = "www.loschapines.com";
